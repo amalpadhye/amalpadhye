@@ -1,1 +1,3 @@
-Computer Science Student at UCLA\nClass of 2028\nAspiring Software Engineer
+Computer Science Student at UCLA
+Class of 2028
+Aspiring Software Engineer
